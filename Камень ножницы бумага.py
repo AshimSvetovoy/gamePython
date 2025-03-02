@@ -1,4 +1,5 @@
 import random
+
 print('1.Камень\n2.Ножницы\n3.Бумага')
 choice = int(input('1 игрок или 2 игрока? '))
 if choice == 1:
